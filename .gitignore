@@ -1,6 +1,15 @@
+# Python
 __pycache__/
 *.py[cod]
 .venv/
+
+# Variables de entorno (claves, contraseñas)
 .env
+
+# Java
+.java
+*.class
+
+# Editores
 .idea/
 .vscode/
