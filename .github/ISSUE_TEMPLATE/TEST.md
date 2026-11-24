@@ -1,23 +1,14 @@
 ---
-name: Test
-about: Propón o informa de una prueba del proyecto
+name: "Test"
 title: "[TEST] "
-labels: test
-assignees: ''
+labels: "test"
+assignees: ""
 ---
 
-## Qué se quiere probar
-Función o módulo (ej.: `src/biblioteca.py`).
+## OBJETIVOS
+Indica qué función o módulo hay que probar (por ejemplo, `src/biblioteca.py`).
 
-## Casos de prueba
-| Entrada | Resultado esperado |
-|---------|--------------------|
-|         |                    |
-
-## Resultado actual
-¿La prueba pasa o falla? Pega la salida si falla.
-
-## Cómo ejecutarlo
-```
-python -m unittest discover tests
-```
+## CRITERIOS DE ACEPTACIÓN
+- [ ] Se prueban los casos normales.
+- [ ] Se prueban los casos de error.
+- [ ] Todos los tests pasan.

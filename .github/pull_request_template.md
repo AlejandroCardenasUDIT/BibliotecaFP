@@ -1,17 +1,10 @@
-## Descripción
-Resume los cambios de este pull request.
+## OBJETIVOS
+Resume qué cambia este pull request.
 
-## Issue relacionada
 Closes #
 
-## Tipo de cambio
-- [ ] Nueva funcionalidad
-- [ ] Corrección de error
-- [ ] Documentación
-- [ ] Tests
-
-## Checklist
-- [ ] El código se ejecuta sin errores (`python src/main.py`)
-- [ ] He añadido o actualizado los tests
-- [ ] He actualizado la documentación si hacía falta
-- [ ] No subo archivos ignorados (`.env`, `__pycache__`, etc.)
+## CRITERIOS DE ACEPTACIÓN
+- [ ] El programa se ejecuta sin errores (`python src/main.py`).
+- [ ] Los tests pasan.
+- [ ] La documentación está actualizada si hacía falta.
+- [ ] No se suben archivos ignorados (`.env`, `__pycache__`, etc.).

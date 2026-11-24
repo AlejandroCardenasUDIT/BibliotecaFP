@@ -1,23 +1,14 @@
 ---
-name: Nueva funcionalidad
-about: Propón una funcionalidad nueva para BibliotecaFP
+name: "Nueva funcionalidad"
 title: "[FEATURE] "
-labels: enhancement
-assignees: ''
+labels: "enhancement"
+assignees: ""
 ---
 
-## Descripción
-¿Qué funcionalidad quieres añadir?
+## OBJETIVOS
+Describe la funcionalidad que se quiere añadir y para qué sirve.
 
-## Motivación
-¿Qué problema resuelve o por qué es útil?
-
-## Propuesta de solución
-Describe cómo debería funcionar.
-
-## Criterios de aceptación
-- [ ] ...
-- [ ] ...
-
-## Información adicional
-Capturas, ejemplos o referencias.
+## CRITERIOS DE ACEPTACIÓN
+- [ ] La funcionalidad hace lo que se describe en los objetivos.
+- [ ] Funciona con los datos de `data/`.
+- [ ] Tiene al menos un test en `tests/`.

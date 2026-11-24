@@ -1,19 +1,14 @@
 ---
-name: Documentación
-about: Mejora o corrige la documentación del proyecto
+name: "Documentación"
 title: "[DOCS] "
-labels: documentation
-assignees: ''
+labels: "documentation"
+assignees: ""
 ---
 
-## Archivo afectado
-Ej.: `README.md`, `docs/requisitos.md`, `docs/funcionalidades.md`
+## OBJETIVOS
+Indica qué documento hay que crear o mejorar (`README.md`, `docs/requisitos.md`, `docs/funcionalidades.md`) y qué falta.
 
-## Problema
-¿Qué falta, está mal o no se entiende?
-
-## Cambio propuesto
-Describe el texto o la sección que habría que añadir o corregir.
-
-## Información adicional
-Enlaces o capturas.
+## CRITERIOS DE ACEPTACIÓN
+- [ ] El documento explica el cambio de forma clara.
+- [ ] No tiene faltas de ortografía.
+- [ ] Coincide con lo que hace el código.
