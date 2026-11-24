@@ -1,5 +1,6 @@
 ---
 name: "Nueva funcionalidad"
+about: "Propón una funcionalidad nueva para BibliotecaFP"
 title: "[FEATURE] "
 labels: "enhancement"
 assignees: ""

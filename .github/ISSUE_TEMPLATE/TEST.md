@@ -1,5 +1,6 @@
 ---
 name: "Test"
+about: "Propón pruebas para el código del proyecto"
 title: "[TEST] "
 labels: "test"
 assignees: ""

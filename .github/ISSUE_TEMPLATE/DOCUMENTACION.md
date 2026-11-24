@@ -1,5 +1,6 @@
 ---
 name: "Documentación"
+about: "Crea o mejora la documentación del proyecto"
 title: "[DOCS] "
 labels: "documentation"
 assignees: ""
